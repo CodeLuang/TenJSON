@@ -177,7 +177,7 @@ export function SettingsScreen() {
         </Section>
 
         <Text className="mb-8 mt-2 text-center text-[12px]" style={{ color: colors.muted }}>
-          TenJSON v1.0.0 — Built with React Native + Expo
+          TenJSON v1.0.0
         </Text>
       </ScrollView>
     </View>
