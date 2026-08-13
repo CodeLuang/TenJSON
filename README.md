@@ -2,6 +2,18 @@
 
 A JSON Tool app for reading, creating, and editing JSON files on Android.
 
+<p align="center">
+  <picture>
+    <img src="https://res.cloudinary.com/gxqkxg67/image/upload/v1786593505/1.jpg" width=250 />
+  </picture>
+  <picture>
+    <img src="https://res.cloudinary.com/gxqkxg67/image/upload/v1786593581/2.jpg" width=250 />
+  </picture>
+  <picture>
+    <img src="https://res.cloudinary.com/gxqkxg67/image/upload/v1786593599/3.jpg" width=250 />
+  </picture>
+</p>
+
 ## ✨ Features
 
 - **Open JSON** - Browse device storage using the system document picker (SAF). No storage permission needed! Files are imported into the app and displayed as a collapsible **Tree View** with VS Code-style indent guides.
