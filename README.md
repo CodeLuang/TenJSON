@@ -1,4 +1,4 @@
-# TenJSON — JSON Viewer Mobile
+# TenJSON - JSON Viewer Mobile
 
 A JSON Tool app for reading, creating, and editing JSON files on Android.
 
@@ -6,7 +6,7 @@ A JSON Tool app for reading, creating, and editing JSON files on Android.
 
 - **Open JSON** - Browse device storage using the system document picker (SAF). No storage permission needed! Files are imported into the app and displayed as a collapsible **Tree View** with VS Code-style indent guides.
 - **New File** - Quickly create new JSON files using the FAB (Floating Action Button) with `{}` object or `[]` array templates.
-- **Edit** — Edit JSON using either the Tree View or Raw Text Editor. The editor features **real-time syntax highlighting** (custom tokenizer) and **red error underlines** with exact line:column indicators from a built-in JSON validator.
+- **Edit** - Edit JSON using either the Tree View or Raw Text Editor. The editor features **real-time syntax highlighting** (custom tokenizer) and **red error underlines** with exact line:column indicators from a built-in JSON validator.
 - **Undo / Redo** - Supports coalesced history with up to 60 steps.
 - **Appearance** - Switch between **Light**, **Dark**, or **System** themes instantly via runtime CSS variables.
 - **Accent Colors** - Choose from Blue, Purple, Green, or Orange accents applied to buttons, toggles, icons, and highlights.
